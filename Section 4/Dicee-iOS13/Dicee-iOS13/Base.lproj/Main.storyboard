@@ -49,6 +49,9 @@
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="rollButtonPress:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gxu-k7-OEI"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
